@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made me want to find a diff file for excel spreadsheets. I found spreadgit but its quite expensive.
+    It reminded me of working with Steve at QinetiQ and how i'd used diff already there.
+    I had to use FC as i'm on windows here at Avalon but it reaffirmed my commitment to buying a mac. (I need to decide on The Ink Factory or not first.)
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Look back and review mistakes and improvements to learn to be better
+    Correct mistakes more quickly as can identify them more quickly
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: 	Code should compile and be in a logical point
+    Cons: 	Lose work if crashes
+    		May forget
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git presumes that the files are not independant, focussed on programming vs. multitude of files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log --stat was great because it shows the number of +/- changes
+    git diff first second was useful to see the detail
+    Having a 'mare using windows and pasting though.... argh!
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Definitely, because you can always go backwards!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I guess i need to start doing some more programming :-D
